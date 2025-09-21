@@ -1,7 +1,5 @@
 # LinearAlgebraHub
 
-# LinearAlgebraHub
-
 **LinearAlgebraHub** is a web-based calculator designed to help students, engineers, and researchers perform linear algebra computations quickly and efficiently. It provides tools for matrix analysis, eigenvalues and eigenvectors, vector transformations, and more.
 
 ---
